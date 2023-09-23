@@ -17,9 +17,15 @@
 		},
 		{
 			"path": "zadanie 2"
+		},
+		{
+			"path": "zadanie 3"
+		},
+		{
+			"path": "figury"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "zadanie 2"
+		"liveServer.settings.multiRootWorkspaceName": "figury"
 	}
 }

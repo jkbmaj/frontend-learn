@@ -1,0 +1,21 @@
+body {
+	font-family: 'Comfortaa', cursive;
+	background-color: #333;
+	color: #fff;
+	font-size: 36px;
+}
+
+img {
+	width: 800px;
+	border-radius: 25px;
+	margin: auto;
+	display: block;
+}
+
+div p {
+	color: lime;
+}
+div p span {
+	color: tomato;
+	text-decoration: underline;
+}
