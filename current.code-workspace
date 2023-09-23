@@ -11,9 +11,15 @@
 		},
 		{
 			"path": "kurs cz 1"
+		},
+		{
+			"path": "Napraw CSS"
+		},
+		{
+			"path": "zadanie 2"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "kurs cz 1"
+		"liveServer.settings.multiRootWorkspaceName": "zadanie 2"
 	}
 }
