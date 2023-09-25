@@ -23,9 +23,12 @@
 		},
 		{
 			"path": "figury"
+		},
+		{
+			"path": "zadania z kombinatorami"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "figury"
+		"liveServer.settings.multiRootWorkspaceName": "zadania z kombinatorami"
 	}
 }
