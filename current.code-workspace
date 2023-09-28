@@ -26,9 +26,15 @@
 		},
 		{
 			"path": "zadania z kombinatorami"
+		},
+		{
+			"path": "box-learn"
+		},
+		{
+			"path": "zadanie padding margin"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "zadania z kombinatorami"
+		"liveServer.settings.multiRootWorkspaceName": "box-learn"
 	}
 }

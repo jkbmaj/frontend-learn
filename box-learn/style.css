@@ -1,0 +1,22 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+div {
+	height: 400px;
+	width: 400px;
+	border: 20px solid black;
+}
+
+.green {
+	background-color: green;
+	box-sizing: border-box;
+	margin-bottom: 20px;
+}
+.red {
+	margin-top: 20px;
+	background-color: red;
+	box-sizing: content-box;
+}
