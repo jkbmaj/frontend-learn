@@ -32,9 +32,12 @@
 		},
 		{
 			"path": "zadanie padding margin"
+		},
+		{
+			"path": "position"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "box-learn"
+		"liveServer.settings.multiRootWorkspaceName": "position"
 	}
 }
