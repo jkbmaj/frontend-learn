@@ -16,39 +16,39 @@ div {
 	border: 3px solid black;
 }
 
-.red {
-	background-color: tomato;
+.top {
 	position: absolute;
 	top: 0;
+}
+
+.red {
+	background-color: tomato;
 	left: 0;
 }
 
 .blue {
 	background-color: royalblue;
-	position: absolute;
-	top: 0;
 	left: 100px;
 }
 
 .green {
 	background-color: greenyellow;
-	position: absolute;
-	top: 0;
 	left: 200px;
+}
+
+.right {
+	position: absolute;
+	right: 0;
 }
 
 .gold {
 	background-color: gold;
-	position: absolute;
 	bottom: 0;
-	right: 0;
 }
 
 .silver {
 	background-color: silver;
-	position: absolute;
 	bottom: 100px;
-	right: 0;
 }
 
 .black {
