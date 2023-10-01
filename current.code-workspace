@@ -35,9 +35,12 @@
 		},
 		{
 			"path": "position"
+		},
+		{
+			"path": "zadanie position"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "position"
+		"liveServer.settings.multiRootWorkspaceName": "zadanie position"
 	}
 }
