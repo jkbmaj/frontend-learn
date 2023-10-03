@@ -38,9 +38,12 @@
 		},
 		{
 			"path": "zadanie position"
+		},
+		{
+			"path": "zoom move color"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "zadanie position"
+		"liveServer.settings.multiRootWorkspaceName": "zoom move color"
 	}
 }
