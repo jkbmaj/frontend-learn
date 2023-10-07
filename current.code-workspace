@@ -41,9 +41,12 @@
 		},
 		{
 			"path": "zoom move color"
+		},
+		{
+			"path": "transform transition"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "zoom move color"
+		"liveServer.settings.multiRootWorkspaceName": "transform transition"
 	}
 }
