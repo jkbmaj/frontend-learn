@@ -44,9 +44,12 @@
 		},
 		{
 			"path": "transform transition"
+		},
+		{
+			"path": "media queries"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "transform transition"
+		"liveServer.settings.multiRootWorkspaceName": "media queries"
 	}
 }
